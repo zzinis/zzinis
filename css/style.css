@@ -12,6 +12,10 @@ a {
 #box {
   width: 200px;
   height: 200px;
-  background: hotpink; }
+  background: hotpink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px; }
 
 /*# sourceMappingURL=style.css.map */
